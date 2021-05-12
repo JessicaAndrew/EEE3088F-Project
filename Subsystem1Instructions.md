@@ -1,0 +1,1 @@
+This circuit takes in the battery’s DC voltage and converts it to the needed Pi voltage. This is done using a n-channel MOSFET. This circuit takes in the battery’s decreasing voltage and converts it to a set output voltage. This circuit was originally built using a NPN transistor but was switched to a MOSFET for its increased functionality.
